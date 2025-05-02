@@ -3,4 +3,4 @@ This repository contains code I personally authored as part of a larger robotics
 
 In addition to manual control, I created an autonomous mode that uses a laser distance sensor to navigate and park the robot based on distance readings.
 
-Note: This code represents only the portions of the project that I individually developed.
+Note: This code represents only the portions of the project that I individually developed. "Auto" refers to autonomous mode code and "Teleop" refers to manual control mode.
